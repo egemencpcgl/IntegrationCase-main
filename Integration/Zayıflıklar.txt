@@ -1,0 +1,3 @@
+Kilit süreleri düzgün yönetilmeli. Kilit zaman aşımına uğrarsa ver tutarsızlığı yaşanabilir.
+Dağıtılmış kilitleme mekanizması ek gecikmelere neden olabilir. Performans gereksinimlerine göre uygun kilitleme süreleri ayarlanmalıdır.
+Redis başarısız olursa tüm sistem etkilenebilir. 
