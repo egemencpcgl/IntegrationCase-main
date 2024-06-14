@@ -1,5 +1,3 @@
-﻿# AdCreative.ai Integration Case
-
 ## Description of the Problem
 
 The project comprises two layers: Service and Backend.
